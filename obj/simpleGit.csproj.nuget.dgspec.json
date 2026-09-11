@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\muzam\\Documents\\simpleGit\\simpleGit.csproj": {}
+    "C:\\Users\\muzam\\slask\\simpleGit.csproj": {}
   },
   "projects": {
-    "C:\\Users\\muzam\\Documents\\simpleGit\\simpleGit.csproj": {
+    "C:\\Users\\muzam\\slask\\simpleGit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\muzam\\Documents\\simpleGit\\simpleGit.csproj",
+        "projectUniqueName": "C:\\Users\\muzam\\slask\\simpleGit.csproj",
         "projectName": "simpleGit",
-        "projectPath": "C:\\Users\\muzam\\Documents\\simpleGit\\simpleGit.csproj",
+        "projectPath": "C:\\Users\\muzam\\slask\\simpleGit.csproj",
         "packagesPath": "C:\\Users\\muzam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\muzam\\Documents\\simpleGit\\obj\\",
+        "outputPath": "C:\\Users\\muzam\\slask\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\muzam\\AppData\\Roaming\\NuGet\\NuGet.Config"

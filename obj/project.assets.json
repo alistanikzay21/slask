@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\muzam\\documents\\simpleGit\\simpleGit.csproj",
+      "projectUniqueName": "C:\\Users\\muzam\\slask\\simpleGit.csproj",
       "projectName": "simpleGit",
-      "projectPath": "C:\\Users\\muzam\\documents\\simpleGit\\simpleGit.csproj",
+      "projectPath": "C:\\Users\\muzam\\slask\\simpleGit.csproj",
       "packagesPath": "C:\\Users\\muzam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\muzam\\documents\\simpleGit\\obj\\",
+      "outputPath": "C:\\Users\\muzam\\slask\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\muzam\\AppData\\Roaming\\NuGet\\NuGet.Config"
